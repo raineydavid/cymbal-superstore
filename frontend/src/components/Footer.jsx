@@ -8,7 +8,7 @@ const Footer = () => {
           This website is hosted for demo purposes only.
         </span>
         <br />
-        <span class="text-muted small">&copy; 2023 Google Inc.</span>
+        <span class="text-muted small">&copy; 2024 Google Inc.</span>
       </div>
     </footer>
   );
